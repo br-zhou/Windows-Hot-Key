@@ -7,11 +7,6 @@ https://github.com/br-zhou/Windows-Hot-Key.git
 
 
 
-
-
-
-
-
 List of Useful HotKeys:
 Printscreen: Screen snippit (dont worry, WIN+Printscreen still works to perform regular screenshot)
 Shift+Printscreen: Screen Snippit, but you can draw
