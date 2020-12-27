@@ -44,18 +44,26 @@ return
 SoundSet, -5
 return
 
+#`::
 #Numpad0::
 SoundSet, 0
 return
+#1::
 #Numpad1::
 SoundSet, 25
 return
+
+#2::
 #Numpad2::
 SoundSet, 50
 return
+
+#3::
 $#Numpad3::
 SoundSet, 75
 return
+
+#4::
 #Numpad4::
 SoundSet, 100
 return
