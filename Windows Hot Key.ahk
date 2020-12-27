@@ -1,55 +1,5 @@
 #SingleInstance, Force
 
-;Function Shortcuts
-
-#F1::
-;Sticky Notes
-Run, C:\Users\brzhou\Desktop\Poo-Grams\AHK\WHK\Shortcut Apps\Sticky Notes
-;to get this hotkey to work, make a shortcut of a program, and paste the file path there
-return
-
-#F2::
-;Trello App
-Run, chrome.exe "https://trello.com/"
-return
-
-#F4::
-;French to English Google translate
-Run, chrome.exe "https://translate.google.com/#view=home&op=translate&sl=fr&tl=en"
-return
-
-#F5::
-;Google Docs, User 2
-Run, chrome.exe "https://docs.google.com/document/u/1/"
-return
-
-#F6::
-;Google Slides
-Run, chrome.exe "https://docs.google.com/presentation/u/1/"
-return
-
-#t::
-;Thesaurus
-Run, chrome.exe "https://www.thesaurus.com/"
-return
-
-#y::
-;Eaasily access specific folders
-Run, explore "C:\Users\brzhou\Desktop\homework"
-return
-
-#m::
-;Messenger App
-Run, chrome.exe "https://www.messenger.com/"
-return
-
-#g::
-;I have three gmail accounts I use equally, this opens all three of them, logged in
-Run, chrome.exe "https://mail.google.com/mail/u/0/"
-Run, chrome.exe "https://mail.google.com/mail/u/1/"
-Run, chrome.exe "https://mail.google.com/mail/u/2/"
-return
-
 PrintScreen::
 ;screen snippit
 Send, {LWin Down}{LShift Down}s{LWin Up}{LShift Up}
