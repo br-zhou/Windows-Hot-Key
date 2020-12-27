@@ -59,7 +59,5 @@ return
 #Numpad4::
 SoundSet, 100
 return
-#Numpad5::
-SoundSet, 6
-return
+
 ;//Volume
