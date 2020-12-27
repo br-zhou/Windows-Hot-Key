@@ -3,8 +3,7 @@ A collection of useful hotkeys for Keyboards without "FN" funtionality
 AUTOHOTKEY is required to edit the program. The built in "Ahk to EXE" program can convert your modified version to a small exe file
 
 AutoHotKey is required to convert the script in to an exe
-https://github.com/br-zhou/Windows-Hot-Key.git 
-
+https://www.autohotkey.com/
 
 
 List of Useful HotKeys:
@@ -15,7 +14,6 @@ Win+Down: Lowers system volume by intervals of 5
 Win+F12: Sleeps computer
 Win+W: Creates new virtual desktop
 Win+A,Win+S:Switches Left and Right between virtual desktops
-
 Win+F1: Launches Stickynotes app
 Win+(Certain Hotkeys): Launches Specific Websites
 Win+Num0: Sets System Volume to 0
