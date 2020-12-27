@@ -7,9 +7,17 @@ https://www.autohotkey.com/
 
 
 List of Useful HotKeys:
+
+
 Printscreen: Screen snippit (dont worry, WIN+Printscreen still works to perform regular screenshot)
+
+
 Shift+Printscreen: Screen Snippit, but you can draw
+
+
 Win+Up: Raises system volume by intervals of 5
+
+
 Win+Down: Lowers system volume by intervals of 5
 Win+F12: Sleeps computer
 Win+W: Creates new virtual desktop
