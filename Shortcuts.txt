@@ -1,0 +1,38 @@
+Win+12: Sleep
+
+Win+UP: +5% volume
+Win+Down: -5% volume
+
+Win+Num0: Sets volume to 0%
+Win+Num1: Sets volume to 25%
+Win+Num2: Sets volume to 50%
+Win+Num3: Sets volume to 75%
+Win+Num4: Sets volume to 100%
+
+Printscreen: Screen snippit
+Win+Printscreen: Normal screenshot
+Shift+Printscreen: Screen snippit w/ sketch
+
+Win+W: New virtual desktop
+Win+A,Win+S:Toggles between virtual desktops
+
+
+
+
+
+
+
+
+-----NOTE-----
+These hotkeys are only for the barebones version, and the script can be highly cuztomized.
+examples:
+
+#g::
+Run, chrome.exe "https://mail.google.com/mail/u/0/"
+return
+;(this runs gmail using Win+G)
+
+#h::
+Run, explore "C:\Users\zhou\Desktop\Homework"
+return
+;(this opens homework folder using Win+H)
