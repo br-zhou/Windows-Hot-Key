@@ -24,7 +24,7 @@ Win+A,Win+S:Toggles between virtual desktops
 
 
 -----NOTE-----
-These hotkeys are only for the barebones version, and the script can be highly cuztomized.
+These hotkeys are only for the barebones version, and the script can be cuztomized.
 examples:
 
 #g::
